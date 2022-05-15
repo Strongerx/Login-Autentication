@@ -1,0 +1,48 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@400;700&display=swap');
+
+body {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.logo {
+    display: flex;
+    justify-content: space-around;
+}
+
+.quadradoverde {
+    background-color: #E9FFEA;
+    border-radius: 10px;
+    height: 80%;
+    width: 80%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+
+}
+
+.imagemsucesso {
+    width: 190px;
+}
+
+.labelsucesso {
+    margin-top: 30px;
+    display: flex;
+    justify-content: space-around;
+    color: #259637;
+    font-size: 18.5;
+    font-weight: 550;
+    font-family: 'Montserrat', sans-serif;
+}
+
+.cadeadodiv {
+    display: flex;
+    justify-content: space-evenly;
+    padding-top: 15px;
+}
+
+.cadeado {
+    width: 60px;
+}
